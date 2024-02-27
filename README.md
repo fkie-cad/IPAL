@@ -1,5 +1,7 @@
 # IPAL Documentation
 
+<img src="./misc/Logo.png" alt="Logo" width="100" height="auto" align="right">
+
 This repository should grow into a collection of helpful information around IPAL, the Industrial Protocol Abstraction Layer. Currently, it contains an overview, introduction, and tutorial on the basic operations of IPAL.
 
 ## Idea and Concept
