@@ -77,11 +77,13 @@ The state format represents the entire state, the values of all sensors and actu
 
 ## Support Material
 
-### Tutorial and getting started
+### Getting started
 
-If you are new to IPAL and are considering working with it, we provide you with a presentation that explains the main concepts and guides you through your first installation steps. Furthermore, we designed an extensive tutorial that showcases all software utilities.
+To ease seting up IPAL, we provide a docker environment which includes all relevant tools. Please refer to the files in the `docker` folder for further information.
 
-Please refer to the files in the `tutorial` folder.
+### Tutorial
+
+If you are new to IPAL and are considering working with it, we provide you with a presentation that explains the main concepts and guides you through your first steps. Furthermore, we designed an extensive tutorial that showcases all software utilities. Please refer to the files in the `tutorial` folder.
 
 ## Contribute
 
