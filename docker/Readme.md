@@ -56,4 +56,4 @@ docker exec -it --user root ipal /bin/bash
 on the host. Though, you cannot use ipal as root.
 
 ### Notes
-By default, many ipal tools show plots interactively. Inside the docker container, this will fail. However, there should be an option to store plots instead.
+By default, many IPAL tools show plots interactively. Inside the docker container, this will fail. However, there should be an option to store plots instead.

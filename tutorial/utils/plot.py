@@ -24,6 +24,10 @@ def plot(filename):
             y.append(js["state"]["PLC:pressure"])
 
     plt.plot(x, y)
+    plt.ylabel("Pressure")
+    plt.xlabel("Time")
+
+    plt.savefig("./PLC-Pressure.pdf")
     plt.show()
 
 
